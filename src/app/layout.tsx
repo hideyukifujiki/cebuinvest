@@ -33,6 +33,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
+  verification: {
+    google: "UL4njxGIfqP-UMuYopNo5_NAfD-Aa2s4mAOYdAjhcuA",
+  },
   // app/icon.svg と app/apple-icon.svg は Next.js が自動検出するが、
   // 明示的に指定することで sizes と type を正確に伝える
   icons: {
