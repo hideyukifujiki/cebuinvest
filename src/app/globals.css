@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-ink-900 antialiased;
+    font-family: var(--font-noto-jp), system-ui, sans-serif;
+  }
+
+  ::selection {
+    @apply bg-sun-500 text-ink-900;
+  }
+}
+
+@layer components {
+  /* ナビゲーション下線アニメーション */
+  .nav-link {
+    @apply relative;
+  }
+
+  .nav-link::after {
+    content: "";
+    @apply absolute left-0 right-0 -bottom-1.5 h-0.5 bg-navy-900 origin-left scale-x-0 transition-transform duration-200;
+  }
+
+  .nav-link:hover::after,
+  .nav-link[data-active="true"]::after {
+    @apply scale-x-100;
+  }
+
+  /* カード hover */
+  .card-hover {
+    @apply transition-all duration-200;
+  }
+
+  .card-hover:hover {
+    @apply -translate-y-0.5 shadow-card border-navy-700;
+  }
+
+  /* プライマリ CTA */
+  .cta-primary {
+    @apply transition-all duration-150;
+  }
+
+  .cta-primary:hover {
+    @apply bg-sun-600 -translate-y-px shadow-cta;
+  }
+
+  /* セカンダリ CTA */
+  .cta-secondary {
+    @apply transition-colors duration-200;
+  }
+
+  .cta-secondary:hover {
+    @apply bg-sky-100;
+  }
+
+  /* グレインオーバーレイ（記事カード用） */
+  .grain {
+    background-image: radial-gradient(
+        circle at 20% 10%,
+        rgba(245, 197, 24, 0.1) 0,
+        transparent 30%
+      ),
+      radial-gradient(
+        circle at 80% 20%,
+        rgba(43, 168, 224, 0.1) 0,
+        transparent 35%
+      ),
+      radial-gradient(
+        circle at 60% 90%,
+        rgba(43, 183, 183, 0.1) 0,
+        transparent 35%
+      );
+  }
+
+  /* スクロールバー非表示 */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
