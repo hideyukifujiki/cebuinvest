@@ -88,7 +88,7 @@ export const guideArticles: GuideArticle[] = [
   { slug: "toeic-100-up-1month", title: "TOEIC 1ヶ月で100点上げた人の学習スケジュール", excerpt: "模試で弱点把握→1週目は形式理解→2週目は単語と文法→3週目は実戦演習→4週目は復習と本番調整。1ヶ月100点アップを狙うための現実的なスケジュールと、Part別の優先順位を整理。", publishedAt: "2026.04.10", categorySlug: "working-adults", gradient: "from-sky-500 to-navy-900", readingMinutes: 17, author: "セブ犬/編集長" },
 
   // FAMILY
-  { slug: "cebu-family-study-cost-2026", title: "セブ島親子留学の費用、本当のところはいくら？2026年版の現地レポート", excerpt: "親1人・子ども1人で2週間45〜90万円、4週間70〜135万円。学校費だけでは見えない航空券・現地費・週末費まで含めた現実的な総額を整理。", publishedAt: "2026.05.10", categorySlug: "family", areaSlugs: ["lahug", "banilad"], gradient: "from-palm-500 to-sky-500", readingMinutes: 14, author: "セブ犬/編集長" },
+  { slug: "cebu-family-study-cost-2026", title: "セブ島親子留学の費用、本当のところはいくら？2026年版の現地レポート", excerpt: "親子2人の現実的な総額は1週間35〜80万円、2週間50〜120万円、1ヶ月80〜200万円。学費・滞在・航空券・現地費・週末費を含めて、節約型／標準型／快適型の3パターンと、削らない方がよい費用まで整理。", publishedAt: "2026.05.10", categorySlug: "family", areaSlugs: ["lahug", "banilad"], gradient: "from-palm-500 to-sky-500", readingMinutes: 18, author: "セブ犬/編集長" },
   { slug: "family-study-where-to-stay", title: "親子留学、住まいはコンドミニアムかホテルか", excerpt: "セブ島親子留学で家族向け滞在を考えるなら、現実的な選択肢はコンドミニアムかホテル。短期・中期・長期で何が変わるか、家族構成別の選び方を整理。", publishedAt: "2026.04.30", categorySlug: "family", areaSlugs: ["mabolo", "banilad"], gradient: "from-sky-500 to-palm-500", readingMinutes: 18, author: "セブ犬/編集長" },
   { slug: "family-school-with-kids-3-5", title: "3〜5歳の子と行ける親子留学校｜未就学児でもセブ島留学はできる？", excerpt: "未就学児の親子留学で大切なのは、英語の成果より海外体験。親同席型の授業、柔軟な学校選び、滞在先・通学距離・食事の整え方、3D ACADEMYの6歳未満対応まで整理。", publishedAt: "2026.04.15", categorySlug: "family", gradient: "from-palm-500 to-teal-400", readingMinutes: 14, author: "セブ犬/編集長" },
 
