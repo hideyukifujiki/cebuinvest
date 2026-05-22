@@ -84,7 +84,7 @@ export const guideArticles: GuideArticle[] = [
   { slug: "short-term-packing-essentials", title: "セブ短期留学の持ち物リスト2026", excerpt: "セブ短期留学は「持ちすぎない準備」が大切。書類・電子機器・薬・衣類・日用品をカテゴリ別に整理し、1週間／2週間／4週間それぞれの目安、機内持ち込みと預け荷物の振り分け、現地で買えるもの・買えないものまで全網羅したチェックリスト。", publishedAt: "2026.05.11", categorySlug: "short-term", gradient: "from-teal-400 to-navy-700", readingMinutes: 16, author: "セブ犬/編集長" },
 
   // WORKING ADULTS
-  { slug: "remote-work-and-study", title: "リモートワークしながら社会人留学する方法", excerpt: "ITパークで働きながら学ぶハイブリッド型。", publishedAt: "2026.04.28", categorySlug: "working-adults", areaSlugs: ["it-park"], gradient: "from-navy-700 to-sky-500", readingMinutes: 7, author: "セブ犬/編集長" },
+  { slug: "remote-work-and-study", title: "リモートワークしながら社会人留学する方法", excerpt: "ITパークで働きながら学ぶハイブリッド型。仕事量の設計、時間割、滞在先、Wi-Fi二重化、目的別の英語学習設計まで実務目線で整理。", publishedAt: "2026.04.28", categorySlug: "working-adults", areaSlugs: ["it-park"], gradient: "from-navy-700 to-sky-500", readingMinutes: 18, author: "セブ犬/編集長" },
   { slug: "toeic-100-up-1month", title: "TOEIC 1ヶ月で100点上げた人の学習スケジュール", excerpt: "現地で実際に伸ばすコツを公開。", publishedAt: "2026.04.10", categorySlug: "working-adults", gradient: "from-sky-500 to-navy-900", readingMinutes: 9, author: "セブ犬/編集長" },
 
   // FAMILY
