@@ -90,20 +90,20 @@ export const guideArticles: GuideArticle[] = [
   // FAMILY
   { slug: "cebu-family-study-cost-2026", title: "セブ島親子留学の費用、本当のところはいくら？2026年版の現地レポート", excerpt: "親1人・子ども1人で2週間45〜90万円、4週間70〜135万円。学校費だけでは見えない航空券・現地費・週末費まで含めた現実的な総額を整理。", publishedAt: "2026.05.10", categorySlug: "family", areaSlugs: ["lahug", "banilad"], gradient: "from-palm-500 to-sky-500", readingMinutes: 14, author: "セブ犬/編集長" },
   { slug: "family-study-where-to-stay", title: "親子留学、住まいはコンドミニアムかホテルか", excerpt: "セブ島親子留学で家族向け滞在を考えるなら、現実的な選択肢はコンドミニアムかホテル。短期・中期・長期で何が変わるか、家族構成別の選び方を整理。", publishedAt: "2026.04.30", categorySlug: "family", areaSlugs: ["mabolo", "banilad"], gradient: "from-sky-500 to-palm-500", readingMinutes: 18, author: "セブ犬/編集長" },
-  { slug: "family-school-with-kids-3-5", title: "3〜5歳の子と行ける親子留学校", excerpt: "未就学児向けプログラムを整理。", publishedAt: "2026.04.15", categorySlug: "family", gradient: "from-palm-500 to-teal-400", readingMinutes: 6, author: "セブ犬/編集長" },
+  { slug: "family-school-with-kids-3-5", title: "3〜5歳の子と行ける親子留学校｜未就学児でもセブ島留学はできる？", excerpt: "未就学児の親子留学で大切なのは、英語の成果より海外体験。親同席型の授業、柔軟な学校選び、滞在先・通学距離・食事の整え方、3D ACADEMYの6歳未満対応まで整理。", publishedAt: "2026.04.15", categorySlug: "family", gradient: "from-palm-500 to-teal-400", readingMinutes: 14, author: "セブ犬/編集長" },
 
   // KIDS ENGLISH
-  { slug: "summer-school-cebu-2026", title: "セブ島サマースクール2026のおすすめ", excerpt: "年齢別の選び方と申込タイミング。", publishedAt: "2026.05.05", categorySlug: "kids-english", areaSlugs: ["banilad", "lahug"], gradient: "from-sky-500 to-palm-500", readingMinutes: 8, author: "セブ犬/編集長" },
-  { slug: "kids-only-cebu-study", title: "子どもだけのセブ留学、何歳から可能か", excerpt: "ガーディアン契約、寮、付き添いビザの整理。", publishedAt: "2026.04.05", categorySlug: "kids-english", gradient: "from-palm-500 to-sky-500", readingMinutes: 6, author: "セブ犬/編集長" },
+  { slug: "summer-school-cebu-2026", title: "セブ島サマースクール2026のおすすめ｜子ども・親子で参加する英語留学の選び方", excerpt: "2026年のセブ島サマースクールを、ジュニア単独・親子留学・通学型の3タイプで整理。年齢別の選び方、滞在先、対象期間、注意点まで早めに準備したい家庭向けに解説。", publishedAt: "2026.05.05", categorySlug: "kids-english", areaSlugs: ["banilad", "lahug"], gradient: "from-sky-500 to-palm-500", readingMinutes: 15, author: "セブ犬/編集長" },
+  { slug: "kids-only-cebu-study", title: "子どもだけのセブ留学は何歳から可能？単独留学の年齢と注意点", excerpt: "目安は12歳から。3D ACADEMY・ジーニアスイングリッシュの受け入れ条件、15歳未満のWEG申請、親同行が必要なケース、安全管理、子どもの性格との相性まで整理。", publishedAt: "2026.04.05", categorySlug: "kids-english", gradient: "from-palm-500 to-sky-500", readingMinutes: 15, author: "セブ犬/編集長" },
 
   // CAREER ENGLISH
   { slug: "lahug-family-study-life", title: "ラホグで親子留学する生活導線｜住まい・学校・スーパー・週末", excerpt: "ラホグ・JYスクエア周辺で親子留学する場合の住まい、通学ルート、スーパー、クリニック、カフェ、週末の過ごし方を生活者目線で整理。", publishedAt: "2026.05.01", categorySlug: "family", areaSlugs: ["lahug"], gradient: "from-navy-700 to-sun-500", readingMinutes: 19, author: "セブ犬/編集長" },
-  { slug: "toefl-vs-ielts-cebu", title: "TOEFL と IELTS、セブで対策するならどっち？", excerpt: "目的別に判断軸を整理。", publishedAt: "2026.04.18", categorySlug: "career-english", gradient: "from-sun-500 to-navy-700", readingMinutes: 7, author: "セブ犬/編集長" },
-  { slug: "business-english-cebu", title: "ビジネス英語特化校、どう選ぶか", excerpt: "プレゼン・会議・交渉に必要なカリキュラム。", publishedAt: "2026.04.02", categorySlug: "career-english", areaSlugs: ["it-park"], gradient: "from-navy-700 to-sky-500", readingMinutes: 8, author: "セブ犬/編集長" },
+  { slug: "toefl-vs-ielts-cebu", title: "TOEFL と IELTS、セブで対策するならどっち？", excerpt: "セブ島の英語学校はIELTS対策の方が圧倒的に充実。スピーキング・ライティング対策とマンツーマン授業の相性、進学先別の判断軸、TOEFL対策で気をつけたい点まで整理。", publishedAt: "2026.04.18", categorySlug: "career-english", gradient: "from-sun-500 to-navy-700", readingMinutes: 14, author: "セブ犬/編集長" },
+  { slug: "business-english-cebu", title: "社会人がセブ島留学でビジネス英語を学ぶには？", excerpt: "セブ島には「ビジネス英語特化校」と銘打った学校はほぼなく、一般校のマンツーマン授業を自分のキャリアに合わせてカスタマイズするのが現実解。職種別の学習テーマ、留学期間、準備物、帰国後の継続まで整理。", publishedAt: "2026.04.02", categorySlug: "career-english", areaSlugs: ["it-park"], gradient: "from-navy-700 to-sky-500", readingMinutes: 17, author: "セブ犬/編集長" },
 
   // SCHOOLS
-  { slug: "cebu-schools-area-guide", title: "セブ島の英語学校、エリア別の選び方", excerpt: "セブシティ／ITパーク／ラホグ／マクタン。生活環境ごとの違い。", publishedAt: "2026.05.06", categorySlug: "schools", areaSlugs: ["lahug", "it-park", "mactan"], gradient: "from-sky-500 to-navy-700", readingMinutes: 8, author: "セブ犬/編集長" },
-  { slug: "cebu-schools-3d-academy-detail", title: "3D ACADEMY 編集チームの解説と利用者の声", excerpt: "セブシティ中規模・多国籍校の特徴と向く人。", publishedAt: "2026.04.25", categorySlug: "schools", areaSlugs: ["lahug"], gradient: "from-navy-900 to-sky-500", readingMinutes: 9, author: "セブ犬/編集長" },
+  { slug: "cebu-schools-area-guide", title: "セブ島の英語学校、エリア別の選び方", excerpt: "セブシティ中心部、ITパーク、ラホグ、バニラッド、マボロ・マンダウエ、マクタン島。エリアごとの生活環境、向いている留学タイプ、学校寮vs通学コース、治安まで整理した完全ガイド。", publishedAt: "2026.05.06", categorySlug: "schools", areaSlugs: ["lahug", "it-park", "mactan"], gradient: "from-sky-500 to-navy-700", readingMinutes: 17, author: "セブ犬/編集長" },
+  { slug: "cebu-schools-3d-academy-detail", title: "3D ACADEMY 編集チームの解説と利用者の声", excerpt: "セブシティ中心部にある3D ACADEMYの特徴を、生活環境・授業スタイル・親子留学/社会人留学への向き不向き・利用者の声から整理。「英語を使い始めるきっかけ」として向いている学校。", publishedAt: "2026.04.25", categorySlug: "schools", areaSlugs: ["lahug"], gradient: "from-navy-900 to-sky-500", readingMinutes: 13, author: "セブ犬/編集長" },
   { slug: "cebu-schools-genius-english", title: "Genius English のリゾート型留学とは", excerpt: "マクタン中規模校の特徴と向く人。", publishedAt: "2026.04.12", categorySlug: "schools", areaSlugs: ["mactan"], gradient: "from-teal-400 to-sky-500", readingMinutes: 8, author: "セブ犬/編集長" },
 
   // HOUSING（追加）
