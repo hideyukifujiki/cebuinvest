@@ -92,6 +92,13 @@ import { article as bantayanLongStayFeasibility } from "./bantayan-long-stay-fea
 import { article as remoteWorkAndStudy } from "./remote-work-and-study";
 import { article as toeic100Up1month } from "./toeic-100-up-1month";
 import { article as familyStudyWhereToStay } from "./family-study-where-to-stay";
+import { article as familySchoolWithKids3_5 } from "./family-school-with-kids-3-5";
+import { article as summerSchoolCebu2026 } from "./summer-school-cebu-2026";
+import { article as kidsOnlyCebuStudy } from "./kids-only-cebu-study";
+import { article as toeflVsIeltsCebu } from "./toefl-vs-ielts-cebu";
+import { article as businessEnglishCebu } from "./business-english-cebu";
+import { article as cebuSchoolsAreaGuide } from "./cebu-schools-area-guide";
+import { article as cebuSchools3dAcademyDetail } from "./cebu-schools-3d-academy-detail";
 
 export type ArticleBody = {
   title: string;
@@ -181,6 +188,13 @@ const articleBodies: Record<string, ArticleBody> = {
   "remote-work-and-study": remoteWorkAndStudy,
   "toeic-100-up-1month": toeic100Up1month,
   "family-study-where-to-stay": familyStudyWhereToStay,
+  "family-school-with-kids-3-5": familySchoolWithKids3_5,
+  "summer-school-cebu-2026": summerSchoolCebu2026,
+  "kids-only-cebu-study": kidsOnlyCebuStudy,
+  "toefl-vs-ielts-cebu": toeflVsIeltsCebu,
+  "business-english-cebu": businessEnglishCebu,
+  "cebu-schools-area-guide": cebuSchoolsAreaGuide,
+  "cebu-schools-3d-academy-detail": cebuSchools3dAcademyDetail,
 };
 
 /**
