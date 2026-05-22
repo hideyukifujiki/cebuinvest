@@ -99,6 +99,7 @@ import { article as toeflVsIeltsCebu } from "./toefl-vs-ielts-cebu";
 import { article as businessEnglishCebu } from "./business-english-cebu";
 import { article as cebuSchoolsAreaGuide } from "./cebu-schools-area-guide";
 import { article as cebuSchools3dAcademyDetail } from "./cebu-schools-3d-academy-detail";
+import { article as englishInvestResignOrNot } from "./english-invest-resign-or-not";
 
 export type ArticleBody = {
   title: string;
@@ -195,6 +196,7 @@ const articleBodies: Record<string, ArticleBody> = {
   "business-english-cebu": businessEnglishCebu,
   "cebu-schools-area-guide": cebuSchoolsAreaGuide,
   "cebu-schools-3d-academy-detail": cebuSchools3dAcademyDetail,
+  "english-invest-resign-or-not": englishInvestResignOrNot,
 };
 
 /**

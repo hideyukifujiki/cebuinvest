@@ -162,7 +162,7 @@ export const guideArticles: GuideArticle[] = [
   // ENGLISH INVEST
   { slug: "english-invest-roi-career", title: "英語投資の ROI をキャリアで測る方法", excerpt: "応募できる求人数・年収レンジ・仕事内容・海外選択肢・情報アクセス力の5指標で英語投資を測る。短期/中期/長期のリターン分け、実績化の重要性、子どもの英語投資への応用まで。「回収」より「選択肢の拡大」で考える。", publishedAt: "2026.05.04", categorySlug: "english-invest", areaSlugs: ["it-park", "business-park", "lahug"], gradient: "from-navy-700 to-sky-500", readingMinutes: 17, author: "セブ犬/編集長" },
   { slug: "english-invest-3month-plan", title: "3ヶ月で英語投資を最大化する設計", excerpt: "1ヶ月目は診断と設計、2ヶ月目は実践量、3ヶ月目はキャリア・留学・教育方針への接続。社会人/親子留学/子どもの教育、それぞれの3ヶ月モデルと、後で見える5つの指標、お金をかけるべき部分の判断軸。", publishedAt: "2026.04.18", categorySlug: "english-invest", areaSlugs: ["it-park", "lahug", "business-park"], gradient: "from-sky-500 to-teal-400", readingMinutes: 19, author: "セブ犬/編集長" },
-  { slug: "english-invest-resign-or-not", title: "退職してまで英語投資する価値はあるか", excerpt: "判断軸 5 つと、選んだ人の事例。", publishedAt: "2026.04.02", categorySlug: "english-invest", gradient: "from-teal-400 to-navy-700", readingMinutes: 11, author: "セブ犬/編集長" },
+  { slug: "english-invest-resign-or-not", title: "退職してまで英語投資する価値はあるか", excerpt: "退職して英語に投資する価値があるケース、慎重に考えるべきケース、退職前に整理したい5つの判断基準。「英語×専門性」で価値を高める考え方と、英語学習を現実逃避にしないための出口設計まで整理。", publishedAt: "2026.04.02", categorySlug: "english-invest", gradient: "from-teal-400 to-navy-700", readingMinutes: 16, author: "セブ犬/編集長" },
 
   // FAMILY FUTURE
   { slug: "family-future-step-by-step", title: "家族でセブを試す、段階的なステップ", excerpt: "家族旅行 → 1週間親子留学 → 2週間〜1ヶ月滞在 → サマープログラム → 1学期就学 → 長期移住。6段階で家族のセブ適性を見極める進め方と、子ども・親・家計・目的の4つの判断軸。", publishedAt: "2026.05.02", categorySlug: "family-future", areaSlugs: ["banilad", "lahug", "mabolo", "mactan"], gradient: "from-palm-500 to-sun-500", readingMinutes: 18, author: "セブ犬/編集長" },
