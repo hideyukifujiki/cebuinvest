@@ -90,6 +90,7 @@ import { article as bantayanWeekendGetaway } from "./bantayan-weekend-getaway";
 import { article as bantayanAccessStay } from "./bantayan-access-stay";
 import { article as bantayanLongStayFeasibility } from "./bantayan-long-stay-feasibility";
 import { article as remoteWorkAndStudy } from "./remote-work-and-study";
+import { article as toeic100Up1month } from "./toeic-100-up-1month";
 
 export type ArticleBody = {
   title: string;
@@ -177,6 +178,7 @@ const articleBodies: Record<string, ArticleBody> = {
   "bantayan-access-stay": bantayanAccessStay,
   "bantayan-long-stay-feasibility": bantayanLongStayFeasibility,
   "remote-work-and-study": remoteWorkAndStudy,
+  "toeic-100-up-1month": toeic100Up1month,
 };
 
 /**

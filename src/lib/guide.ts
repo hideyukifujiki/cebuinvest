@@ -85,7 +85,7 @@ export const guideArticles: GuideArticle[] = [
 
   // WORKING ADULTS
   { slug: "remote-work-and-study", title: "リモートワークしながら社会人留学する方法", excerpt: "ITパークで働きながら学ぶハイブリッド型。仕事量の設計、時間割、滞在先、Wi-Fi二重化、目的別の英語学習設計まで実務目線で整理。", publishedAt: "2026.04.28", categorySlug: "working-adults", areaSlugs: ["it-park"], gradient: "from-navy-700 to-sky-500", readingMinutes: 18, author: "セブ犬/編集長" },
-  { slug: "toeic-100-up-1month", title: "TOEIC 1ヶ月で100点上げた人の学習スケジュール", excerpt: "現地で実際に伸ばすコツを公開。", publishedAt: "2026.04.10", categorySlug: "working-adults", gradient: "from-sky-500 to-navy-900", readingMinutes: 9, author: "セブ犬/編集長" },
+  { slug: "toeic-100-up-1month", title: "TOEIC 1ヶ月で100点上げた人の学習スケジュール", excerpt: "模試で弱点把握→1週目は形式理解→2週目は単語と文法→3週目は実戦演習→4週目は復習と本番調整。1ヶ月100点アップを狙うための現実的なスケジュールと、Part別の優先順位を整理。", publishedAt: "2026.04.10", categorySlug: "working-adults", gradient: "from-sky-500 to-navy-900", readingMinutes: 17, author: "セブ犬/編集長" },
 
   // FAMILY
   { slug: "cebu-family-study-cost-2026", title: "セブ島親子留学の費用、本当のところはいくら？2026年版の現地レポート", excerpt: "親1人・子ども1人で2週間45〜90万円、4週間70〜135万円。学校費だけでは見えない航空券・現地費・週末費まで含めた現実的な総額を整理。", publishedAt: "2026.05.10", categorySlug: "family", areaSlugs: ["lahug", "banilad"], gradient: "from-palm-500 to-sky-500", readingMinutes: 14, author: "セブ犬/編集長" },
