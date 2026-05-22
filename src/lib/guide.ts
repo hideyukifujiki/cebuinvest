@@ -89,7 +89,7 @@ export const guideArticles: GuideArticle[] = [
 
   // FAMILY
   { slug: "cebu-family-study-cost-2026", title: "セブ島親子留学の費用、本当のところはいくら？2026年版の現地レポート", excerpt: "親1人・子ども1人で2週間45〜90万円、4週間70〜135万円。学校費だけでは見えない航空券・現地費・週末費まで含めた現実的な総額を整理。", publishedAt: "2026.05.10", categorySlug: "family", areaSlugs: ["lahug", "banilad"], gradient: "from-palm-500 to-sky-500", readingMinutes: 14, author: "セブ犬/編集長" },
-  { slug: "family-study-where-to-stay", title: "親子留学、住まいはコンドミニアムかホテルか", excerpt: "セブ島親子留学で家族向け滞在を考えるなら、現実的な選択肢はコンドミニアムかホテル。短期・中期・長期で何が変わるか、家族構成別の選び方を整理。", publishedAt: "2026.04.30", categorySlug: "family", areaSlugs: ["mabolo", "banilad"], gradient: "from-sky-500 to-palm-500", readingMinutes: 12, author: "セブ犬/編集長" },
+  { slug: "family-study-where-to-stay", title: "親子留学、住まいはコンドミニアムかホテルか", excerpt: "セブ島親子留学で家族向け滞在を考えるなら、現実的な選択肢はコンドミニアムかホテル。短期・中期・長期で何が変わるか、家族構成別の選び方を整理。", publishedAt: "2026.04.30", categorySlug: "family", areaSlugs: ["mabolo", "banilad"], gradient: "from-sky-500 to-palm-500", readingMinutes: 18, author: "セブ犬/編集長" },
   { slug: "family-school-with-kids-3-5", title: "3〜5歳の子と行ける親子留学校", excerpt: "未就学児向けプログラムを整理。", publishedAt: "2026.04.15", categorySlug: "family", gradient: "from-palm-500 to-teal-400", readingMinutes: 6, author: "セブ犬/編集長" },
 
   // KIDS ENGLISH
